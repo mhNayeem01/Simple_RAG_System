@@ -1,0 +1,5 @@
+PyPDF2==3.0.1
+streamlit
+chromadb
+openai
+python-dotenv
