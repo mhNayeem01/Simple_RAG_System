@@ -3,3 +3,10 @@ streamlit
 chromadb
 openai
 python-dotenv
+gemini
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+requests
